@@ -1,0 +1,24 @@
+
+      body{
+        background-color: lightblue;
+      }
+      h1{
+        color: darkslateblue;
+      }
+      h2{
+        color: lightslategrey;
+      }
+      img{
+        background-color: plum;
+      }
+      .mushroom{
+        background-color: whitesmoke;
+      }
+      .circular{
+        border-radius: 100%;
+      }
+      #heading{
+        color: brown;
+      }
+
+    
